@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm a student
  - ⚡ Fun fact: I love seal
  - 🚀 My Website: https://ewenbalouin.github.io/
-<img align="left" alt="Ewen's github stats" src="https://github-readme-stats.vercel.app/api?username=EwenBALOUIN&show_icons=true&hide_border=true&count_private=true">
+<img align="left" alt="Ewen's github stats" src="https://github-readme-stats.vercel.app/api?username=EwenBALOUIN&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 <!--<img align="left" alt="Ewen's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenBALOUIN&hide_border=true">
 
 
