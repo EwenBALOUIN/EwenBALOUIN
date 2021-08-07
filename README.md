@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a student
+## I'm a student working at Smartway
  - ⚡ Fun fact: I love seal
+ - 💻 Projects: I only develop fun projects for my curiosity 
  - 🚀 My Website: https://ewenbalouin.github.io/
+ - 🎮 Gaming: I waste a lot of time on video games but I love it
 <img align="left" alt="Ewen's github stats" src="https://github-readme-stats.vercel.app/api?username=EwenBALOUIN&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 <!--<img align="left" alt="Ewen's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenBALOUIN&hide_border=true">
 
