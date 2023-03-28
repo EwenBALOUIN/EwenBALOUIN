@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## I'm a student working at Smartway
  - ⚡ Fun fact: I love seal
- - 💻 Projects: I only develop fun projects for my curiosity 
- <!-- - 🚀 My Website: https://ewenbalouin.github.io/  -->
+ - 💻 Projects: I only develop fun projects for my curiosity
  - 🎮 Gaming: I waste a lot of time on video games but I love it
+ <!-- - 🚀 My Website: https://ewenbalouin.github.io/  -->
+ 
 
