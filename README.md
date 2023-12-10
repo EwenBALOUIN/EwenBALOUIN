@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Developper working at Smartway
+## I'm a Developer working at Smartway
  - ⚡ Fun fact: I love seal
  - 💻 Projects: I’m currently learning more about React and software craftmanship
  - 🎮 Gaming: I waste a lot of time on video games but I love it
